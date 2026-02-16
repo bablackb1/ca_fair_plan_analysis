@@ -11,7 +11,7 @@ Explore structure-level damage assessments through interactive Folium/Leaflet ma
 
 ## Background
 
-The California FAIR Plan is the state's insurer of last resort, providing basic fire coverage to homeowners unable to obtain policies through the private market. Following the January 2025 Los Angeles wildfires, the FAIR Plan faced unprecedented exposure — an estimated $4 billion from the Palisades Fire and over $775 million from the Eaton Fire alone. This project investigates the geographic and structural dimensions of that exposure using CalFire's damage inspection data.
+The California FAIR Plan is the state's insurer of last resort, providing basic fire coverage to homeowners unable to obtain policies through the private market. Following the January 2025 Los Angeles wildfires, the FAIR Plan faced unprecedented exposure, an estimated $4 billion in claims from the Palisades and Eaton Fire alone resulting in a $1 billion assessment on the voluntary insurance market. This project investigates the geographic and structural dimensions of that exposure using CalFire's damage inspection data.
 
 ## Analysis
 
@@ -30,6 +30,8 @@ The California FAIR Plan is the state's insurer of last resort, providing basic 
 - [CalFire Damage Inspection Data (DINS)](https://www.fire.ca.gov/)
 - [California FAIR Plan — Key Statistics & Data](https://www.cfpnet.com/key-statistics-data/)
 - [CA Department of Insurance — Wildfire & Insurance Data](https://www.insurance.ca.gov/01-consumers/200-wrr/)
+- [Assembly Standing Committee on Insurance - March 13, 2024]([https://www.insurance.ca.gov/01-consumers/200-wrr/](https://calmatters.digitaldemocracy.org/hearings/257632))
+- [Assembly Standing Committee on Insurance - May 28, 2025]([https://www.insurance.ca.gov/01-consumers/200-wrr/](https://calmatters.digitaldemocracy.org/hearings/259341))
 
 ## Repository Structure
 ```
