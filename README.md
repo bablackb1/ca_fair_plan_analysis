@@ -49,3 +49,7 @@ ca_fair_plan_analysis/
 **Brookes Heil Blackburn**
 M.S. Applied Mathematics — Cal Poly Pomona
 [GitHub](https://github.com/brookesblackburn) · [LinkedIn](https://www.linkedin.com/in/brookesheilblackburn)
+
+## Disclaimer
+
+This is an independent personal research project and is not affiliated with, endorsed by, or representative of CalFire, the California FAIR Plan Association, the California Department of Insurance, or any government agency. All analysis and visualizations reflect the author's own interpretation of publicly available data and may contain errors or omissions. This work should not be used as a basis for insurance, financial, or policy decisions. For official data and guidance, refer to [CalFire](https://www.fire.ca.gov/), the [California FAIR Plan](https://www.cfpnet.com/), and the [CA Department of Insurance](https://www.insurance.ca.gov/).
