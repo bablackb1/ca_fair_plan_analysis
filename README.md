@@ -6,8 +6,8 @@ An independent research project examining the California FAIR Plan's exposure an
 
 Explore structure-level damage assessments through interactive Folium/Leaflet maps:
 
-- [Eaton Fire — Structure Damage Map](https://brookesblackburn.github.io/ca_fair_plan_analysis/maps/eaton-map.html)
-- [Palisades Fire — Structure Damage Map](https://brookesblackburn.github.io/ca_fair_plan_analysis/maps/palisades-map.html)
+- [Eaton Fire - Structure Damage Map](https://brookesblackburn.github.io/ca_fair_plan_analysis/maps/eaton-map.html)
+- [Palisades Fire - Structure Damage Map](https://brookesblackburn.github.io/ca_fair_plan_analysis/maps/palisades-map.html)
 
 ## Background
 
@@ -15,11 +15,11 @@ The California FAIR Plan is the state's insurer of last resort, providing basic 
 
 ## Analysis
 
-- **Structure damage mapping** — interactive visualizations of individual structure damage assessments across fire perimeters
-- **FAIR Plan coverage analysis** — examining policy concentration in affected areas
-- **Insurance market impact** — exploring the relationship between wildfire risk, insurer withdrawals, and FAIR Plan growth
-- **CalFire data exploration** — cleaning, querying, and analyzing publicly available damage inspection datasets
-- **Geographic/spatial analysis** — mapping damage patterns using coordinate data and GIS tools
+- **Structure damage mapping** - interactive visualizations of individual structure damage assessments across fire perimeters
+- **FAIR Plan coverage analysis** - examining policy concentration in affected areas
+- **Insurance market impact** - exploring the relationship between wildfire risk, insurer withdrawals, and FAIR Plan growth
+- **CalFire data exploration** - cleaning, querying, and analyzing publicly available damage inspection datasets
+- **Geographic/spatial analysis** - mapping damage patterns using coordinate data and GIS tools
 
 ## Tools & Technologies
 
@@ -28,8 +28,8 @@ The California FAIR Plan is the state's insurer of last resort, providing basic 
 ## Data Sources
 
 - [CalFire Damage Inspection Data (DINS)](https://www.fire.ca.gov/)
-- [California FAIR Plan — Key Statistics & Data](https://www.cfpnet.com/key-statistics-data/)
-- [CA Department of Insurance — Wildfire & Insurance Data](https://www.insurance.ca.gov/01-consumers/200-wrr/)
+- [California FAIR Plan - Key Statistics & Data](https://www.cfpnet.com/key-statistics-data/)
+- [CA Department of Insurance - Wildfire & Insurance Data](https://www.insurance.ca.gov/01-consumers/200-wrr/)
 - [Assembly Standing Committee on Insurance - March 13, 2024]([https://www.insurance.ca.gov/01-consumers/200-wrr/](https://calmatters.digitaldemocracy.org/hearings/257632))
 - [Assembly Standing Committee on Insurance - May 28, 2025]([https://www.insurance.ca.gov/01-consumers/200-wrr/](https://calmatters.digitaldemocracy.org/hearings/259341))
 
